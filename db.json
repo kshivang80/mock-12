@@ -43,6 +43,15 @@
         "position": "Junior Frontend Developer",
         "language": "Java"
       }
+    ], 
+    "signup":[
+      {
+        "email": "kshivang80@gmail.com",
+        "username": "Shivang kumar",
+        "password": "12345",
+        "confirmpassword": "12345"
+       
+      }
     ]
    
   }
